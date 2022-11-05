@@ -1,0 +1,50 @@
+---
+title: "My Presentation"
+author: "Malith"
+date: "`r Sys.Date()`"
+output:
+  beamer_presentation: default
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+## Who am I
+
+*I'm a edicated, hardworking, and proactive graduate student with a good background in statistics and mathematics. Currently looking for an opportunity to utilize my skills in a challenging working environment.*
+
+
+  
+  - **Name**: Malith Lakshan Premarathna
+  - **Age** : 27 years
+  - **Birthday** : Mar 27 1995
+  - **Country of Origin**: Sri Lanka
+  - **Current Degree in UNL**: MS degree in Statistics
+  - **Expected Graduate Year** : 2024
+
+## My favourite Animal
+
+**My favourite Animal is Sri lankan Elephant.The Sri Lanka elephant (Elephas maximus maximus) is native to Sri Lanka and one of three recognized subspecies of the Asian elephant.In general, Asian elephants are smaller than African elephants and have the highest body point on the head.**
+
+
+
+```{r ,echo=FALSE,out.width=100,fig.align='center',fig.cap="Family of elephants"}
+knitr::include_graphics("Sri-lanka-main_opt-800x530.jpg", error = FALSE )
+```
+
+## My Plot
+
+```{r ,echo=FALSE,out.width=100,fig.align='center',fig.cap="my plot",}
+plot(mtcars$wt,mtcars$mpg, xlab = "weight", ylab = "MPG")
+```
+
+## My CV
+### *You can find my **CV** from the follow link*
+
+[Link](https://github.com/stat850-unl/hw10-documents-presentations-malithlakshan/blob/master/CV/LaTeXTemplates_moderncv-cv-and-cover-letter_v1.3/cv_7.pdf)
+
+
+
