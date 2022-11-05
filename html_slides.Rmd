@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Who am I
 
-*I'm a edicated, hardworking, and proactive graduate student with a good background in statistics and mathematics. Currently looking for an opportunity to utilize my skills in a challenging working environment.*
+*I'm a educated, hardworking, and proactive graduate student with a good background in statistics and mathematics. Currently looking for an opportunity to utilize my skills in a challenging working environment.*
 
 
   
